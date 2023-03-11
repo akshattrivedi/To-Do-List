@@ -1,0 +1,10 @@
+# python temp files
+__pycache__
+*.pyo
+*.pyc
+
+# sqlite
+*.sqlite3
+
+# Virtual Environment
+env
